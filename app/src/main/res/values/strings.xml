@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ToolBarLssn</string>
+    <string name="app_name">ToolBarEdit</string>
+    <string name="app_sttng">Settings</string>
+    <string name="app_info">Information</string>
+    <string name="app_user_account">User</string>
+    <string name="app_search">Search</string>
 </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/app_sttng"
+        android:id="@+id/sttng"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="300"
+        />
+    <item
+        android:title="@string/app_info"
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        />
+    <item
+        android:title="@string/app_user_account"
+        android:id="@+id/app_user_account"
+        android:icon="@drawable/ic_user_account"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="400"
+        />
+    <item
+        android:title="@string/app_search"
+        android:id="@+id/app_search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="200"
+        />
+</menu>
